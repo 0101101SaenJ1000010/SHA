@@ -1,0 +1,10 @@
+Algorithm	Current Status	Main Use
+SHA-256	✅ Most Used	Malware analysis, EDR, VirusTotal, file integrity, digital signatures
+MD5	⚠️ Legacy but still everywhere	Legacy malware databases, IOC feeds, quick file identification
+SHA-1	⚠️ Legacy	Older malware reports, Git history, compatibility
+SHA-512	✅ Common	High-security environments, certificates, file verification
+SHA-3	✅ Modern but less common	Specialized cryptographic applications
+BLAKE2 / BLAKE3	✅ Growing	Fast integrity checks, storage, backups
+Argon2	✅ Standard	Password hashing
+bcrypt	✅ Very Common	Password hashing in web applications
+PBKDF2	✅ Very Common	Password hashing, encryption key derivation
