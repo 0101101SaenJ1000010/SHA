@@ -1,0 +1,36 @@
+Hash Algorithms
+│
+├── MD Family
+│   ├── MD2
+│   ├── MD4
+│   └── MD5
+│
+├── SHA Family
+│   ├── SHA-0
+│   ├── SHA-1
+│   ├── SHA-224
+│   ├── SHA-256 ⭐
+│   ├── SHA-384
+│   ├── SHA-512
+│   └── SHA-3 Family
+│
+├── RIPEMD
+│
+├── Whirlpool
+│
+├── Tiger
+│
+├── BLAKE
+│   ├── BLAKE2
+│   └── BLAKE3
+│
+├── Password Hashes
+│   ├── bcrypt
+│   ├── scrypt
+│   ├── PBKDF2
+│   └── Argon2 ⭐
+│
+└── Checksums
+    ├── CRC32
+    ├── Adler-32
+    └── xxHash
